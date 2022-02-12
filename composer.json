@@ -1,0 +1,22 @@
+{
+    "name": "ibrah3m/loginwithmetamsk",
+    "description": "this package build to insert login with metamask option just by adding 1 line in your blade :)",
+    "type": "library",
+    "require": {
+        "simplito/elliptic-php": "^1.0",
+        "kornrunner/keccak": "^1.1",
+        "marktopper/doctrine-dbal-timestamp-type": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibrah3m\\LoginWithMetamsk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibrah3m",
+            "email": "ibrahem.developer@gmail.com"
+        }
+    ]
+}
