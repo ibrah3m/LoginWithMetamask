@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class AddUsersLoginMeatamask extends Migration
+class AddUsersLoginMetamask extends Migration
 {
     /**
      * Run the migrations.
@@ -20,7 +20,7 @@ class AddUsersLoginMeatamask extends Migration
             $table->string('name')->nullable()->change();
             $table->string('email')->nullable()->change();
             $table->string('password')->nullable()->change();
-            $table->timestamp('email_verified_at')->nullable()->change();
+            $table->timestamp('email_verified_at')->default(null)->change();
         });
     }
 

@@ -15,7 +15,7 @@ class MetamaskControrller extends Controller
 
 public function JsScript(){
 
-    return response()->view('loginwithmetamsk::FrontJsHook')
+    return response()->view('LoginWithMetamsk::FrontJsHook')
     ->header('Content-Type', 'application/javascript');
 
     

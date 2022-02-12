@@ -14,8 +14,7 @@ class MetamaskServiceProvider extends ServiceProvider
     public function register()
     {
         //
-        $this->app->make('ibrah3m\loginwithmetamsk\MetamaskControrller');
-
+        $this->app->make('Ibrah3m\LoginWithMetamsk\MetamaskControrller');
     }
 
     /**
