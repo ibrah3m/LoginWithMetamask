@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use Elliptic\EC;
 use kornrunner\Keccak;
-use Ibrah3m\LoginWithMetamsk\User;
+use Ibrah3m\LoginWithMetamsk\Models\User;
 use Illuminate\Contracts\Auth\Authenticatable;
 
 class MetamaskControrller extends Controller
