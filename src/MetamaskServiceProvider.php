@@ -26,7 +26,7 @@ class MetamaskServiceProvider extends ServiceProvider
     {
         //
         $this->publishes([
-            __DIR__.'/svg' => public_path('ibrah3m/loginwithmetamsk'),
+            __DIR__.'/image' => public_path('ibrah3m/loginwithmetamsk'),
         ], 'public');
     
         $this->loadMigrationsFrom(__DIR__.'/database/migrations');
