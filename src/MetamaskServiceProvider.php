@@ -25,6 +25,10 @@ class MetamaskServiceProvider extends ServiceProvider
     public function boot()
     {
         //
+        $this->publishes([
+            __DIR__.'/svg' => public_path('ibrah3m/loginwithmetamsk'),
+        ], 'public');
+    
         $this->loadMigrationsFrom(__DIR__.'/database/migrations');
         $this->loadRoutesFrom(__DIR__.'/routes.php');
         $this->loadViewsFrom(__DIR__.'/views', 'loginwithmetamsk');

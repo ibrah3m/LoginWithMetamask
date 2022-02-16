@@ -9,7 +9,7 @@ $(document).ready(function () {
 
 
 
-    $("body").append(` @include('loginwithmetamsk::MetaMaskLoginTemplate')`);
+    $("body").append(`@include('loginwithmetamsk::MetaMaskLoginTemplate')`);
 });
 async function metamasklogin() {
     // var ethers = require('ethers');
