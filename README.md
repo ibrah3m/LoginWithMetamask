@@ -16,13 +16,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/src/svg/metamask-fox.svg" alt="Logo" width="80" height="80">
+    <img src="/src/image/svg/metamask-fox.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">LOGIN-WITH-METAMASK</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome laravel package made for adding  login with MetaMask wallet option in your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
