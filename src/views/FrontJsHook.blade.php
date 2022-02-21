@@ -71,7 +71,6 @@ async function metamasklogin() {
 
             success: function (data) {
                 // redirect for home 
-                alert(data);
                 location.reload();
 
             },
