@@ -20,7 +20,6 @@ class AddUsersLoginMetamask extends Migration
             $table->string('name')->nullable()->change();
             $table->string('email')->nullable()->change();
             $table->string('password')->nullable()->change();
-            $table->timestamp('email_verified_at')->default(null)->change();
         });
     }
 
