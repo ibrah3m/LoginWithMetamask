@@ -1,6 +1,6 @@
 # LoginWithMetamask
  
-        Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
+        
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -106,12 +106,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+First in order to install this package inside your laravel project , so to do that we prefere using composer as explained below .
+* composer
   ```sh
-  npm install npm@latest -g
+  composer require ibrah3m/loginwithmetamsk
   ```
-
+Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
