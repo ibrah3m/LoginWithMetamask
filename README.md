@@ -93,7 +93,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Ethers](https://jquery.com)
+* [Ethers](https://ethers.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
