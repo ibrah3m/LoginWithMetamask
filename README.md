@@ -102,9 +102,7 @@ Frameworks/libraries used to bootstrap your package.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+In the few common lines we will give you istractuion about how to setup this repo inside your project so let's follow and enjoy this installation trip.
 ### Prerequisites
 
 First in order to install this package inside your laravel project , so to do that we prefere using composer as explained below .
