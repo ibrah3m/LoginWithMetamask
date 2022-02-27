@@ -79,7 +79,7 @@ Here's why:
 
 Of course, no one package will serve all projects since your needs may be different but what makes this package unique is the simplicity of the installation by adding just the script link to your blade as explaind below . So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this package!
 
-Use the BLANK_README.md to get started
+Read the rest to get started
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
