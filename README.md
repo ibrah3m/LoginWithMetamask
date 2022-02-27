@@ -27,6 +27,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    
   [![View Demo](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ibrah3m/demo-login-with-metamask)
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
