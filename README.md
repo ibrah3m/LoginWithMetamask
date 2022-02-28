@@ -25,8 +25,6 @@
   <p align="center">
     An awesome laravel package made for adding  login with MetaMask wallet option in your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://gitpod.io/#https://github.com/ibrah3m/demo-login-with-metamask">View Demo</a>
     ·
