@@ -112,7 +112,6 @@ First in order to install this package inside your laravel project , so to do th
   ```sh
   composer require ibrahs3m/loginwithmetamsk
   ```
-Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
 ### Installation
 
 _Below is an example of how you should  installing and setting up the package inside your app.
@@ -127,6 +126,7 @@ _Below is an example of how you should  installing and setting up the package in
 2. add the package provider 
    ```sh
   at config/app.php put this line inside providers array 
+  Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
    ```
 3. Install NPM packages
    ```sh
