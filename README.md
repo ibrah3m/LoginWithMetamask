@@ -212,7 +212,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@website](https://ibrahem.org) 
+Ibrahem Aljabr - [@website](https://ibrahem.org) 
 
 Project Link: [https://github.com/ibrah3m/LoginWithMetamask](https://github.com/ibrah3m/LoginWithMetamask)
 
@@ -223,9 +223,8 @@ Project Link: [https://github.com/ibrah3m/LoginWithMetamask](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Article explains how is ](https://choosealicense.com)
+* [The package build according to this Article!](https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
