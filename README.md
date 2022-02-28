@@ -149,7 +149,7 @@ Here we go almost finsih , now you can use the package in different ways let's s
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
     <script type="text/javascript" src="{{route('metamask.plugin')}}">
   ```
-3. adding just the login button instead of whole template  
+3. adding just the login button instead of the whole template  
   ```sh
     *find the package at vendor folder called  "ibrah3m"
     *inside the views folder go to file 
