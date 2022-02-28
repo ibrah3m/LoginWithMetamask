@@ -151,7 +151,16 @@ Here we go almost finsih , now you can use the package in different ways let's s
   ```
 3. adding just the login button instead of whole template  
   ```sh
-    find the package at vendor folder named ()
+    *find the package at vendor folder called  "ibrah3m"
+    *inside the views folder go to file 
+    "FrontJsHook.blade.php" comment line 12  "$("body").append(`@include('loginwithmetamsk::MetaMaskLoginTemplate')`);"
+    *now inside your login blade add login button by this line  
+    <button class="btn btn-primary btn-block text-white btn-user" onClick="metamasklogin()" style="background: rgb(246,133,27);">MetaMask</button>
+    *In the end your blade will contain all of the  below
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+    <script type="text/javascript" src="{{route('metamask.plugin')}}">
+    <button class="btn btn-primary btn-block text-white btn-user" onClick="metamasklogin()" style="background: rgb(246,133,27);">MetaMask</button>
+
   ```
 
 
