@@ -239,7 +239,7 @@ Project Link: [https://github.com/ibrah3m/LoginWithMetamask](https://github.com/
 [stars-url]: https://github.com/ibrah3m/LoginWithMetamask/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ibrah3m/LoginWithMetamask.svg?style=for-the-badge
 [issues-url]: https://github.com/ibrah3m/LoginWithMetamask/issues
-[license-shield]: https://raster.shields.io/github/license/ibrah3m/LoginWithMetamask.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ibrah3m/LoginWithMetamask.svg?style=for-the-badge
 [license-url]: https://github.com/ibrah3m/LoginWithMetamask/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iqald/
