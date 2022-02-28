@@ -114,7 +114,7 @@ First in order to install this package inside your laravel project , so to do th
   ```
 ### Installation
 
-_Below is an example of how you should  installing and setting up the package inside your app.
+_Below is an explanation of how you should  installing and setting up the package inside your app.
 1. add the package provider 
    ```sh
     At config/app.php put this line inside providers array 
@@ -128,14 +128,6 @@ _Below is an example of how you should  installing and setting up the package in
    ```sh
    Tag: public
    ``` 
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
