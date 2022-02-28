@@ -141,7 +141,20 @@ Here we go almost finsih , now you can use the package in different ways let's s
 1. by route 
    ```sh
     just visit the link below 
+    http://www.example.com/CustomLoginPage
    ```
+2. by javascript plugin  
+  ```sh
+    inside your <HEAD> tag at  login blade just put the following links to make the template render automaticly 
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+    <script type="text/javascript" src="{{route('metamask.plugin')}}">
+  ```
+2. by javascript plugin  
+  ```sh
+    inside your <HEAD> tag at  login blade just put the following links to make the template render automaticly 
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+    <script type="text/javascript" src="{{route('metamask.plugin')}}">
+  ```
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
