@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ibrah3m/demo-login-with-metamask">
     <img src="/src/image/svg/metamask-fox.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -28,9 +28,9 @@
     <br />
     <a href="https://gitpod.io/#https://github.com/ibrah3m/demo-login-with-metamask">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/ibrah3m/demo-login-with-metamask/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/ibrah3m/demo-login-with-metamask">Request Feature</a>
   </p>
 </div>
 
@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial)
 
 There are many great LOGIN packages available on GitHub; however, I didn't find one that really suited my needs in LARAVEL so I created this enhanced one. I want to create a package for login with metamask so amazing that it'll be the last one you ever need -- I think this is it.
 
