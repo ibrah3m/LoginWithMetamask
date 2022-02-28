@@ -110,7 +110,7 @@ In the few come lines, we will give you instructions about how to set up this re
 First in order to install this package inside your laravel project , so to do that we prefere using composer as explained below .
 * composer
   ```sh
-  composer require ibrah3m/loginwithmetamsk
+  composer require ibrahs3m/loginwithmetamsk
   ```
 Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
 ### Installation
@@ -118,7 +118,7 @@ Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
 _Below is an example of how you should  installing and setting up the package inside your app.
 1. run the follow in the command line 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   php artisan vendor:publish
    ```
 2. Clone the repo
    ```sh
