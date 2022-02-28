@@ -115,9 +115,11 @@ First in order to install this package inside your laravel project , so to do th
 Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
+_Below is an example of how you should  installing and setting up the package inside your app.
+1. run the follow in the command line 
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
