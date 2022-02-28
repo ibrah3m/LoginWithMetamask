@@ -115,19 +115,19 @@ First in order to install this package inside your laravel project , so to do th
 ### Installation
 
 _Below is an example of how you should  installing and setting up the package inside your app.
-1. run the follow in the command line 
+1. add the package provider 
+   ```sh
+    At config/app.php put this line inside providers array 
+    Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
+   ```
+2. run the follow in the command line 
    ```sh
    php artisan vendor:publish
    ```
    you will see list of options select the below or 0 for all 
    ```sh
    Tag: public
-   ```
-2. add the package provider 
-   ```sh
-  at config/app.php put this line inside providers array 
-  Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
-   ```
+   ``` 
 3. Install NPM packages
    ```sh
    npm install
