@@ -114,21 +114,21 @@ First in order to install this package inside your laravel project , so to do th
   ```
 ### Installation
 
-_Below is an explanation of how you should  installing and setting up the package inside your app.
+_Below is an explanation of how you should install and set up the package inside your app.
 1. add the package provider 
    ```sh
     At config/app.php put this line inside providers array 
     Ibrah3m\LoginWithMetamsk\MetamaskServiceProvider::class,
    ```
-2. run the follow in the command line 
+2. run the following in the command line 
    ```sh
    php artisan vendor:publish
    ```
-   you will see list of options select the below or 0 for all 
+   you will see a list of options select the below or 0 for all 
    ```sh
    Tag: public
    ``` 
-
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -139,10 +139,10 @@ _Below is an explanation of how you should  installing and setting up the packag
 Here we go almost finsih , now you can use the package in different ways let's see each of them .
 
 1. by route 
-   ```sh
+  ```sh
     just visit the link below 
     http://www.example.com/CustomLoginPage
-   ```
+  ```
 2. by javascript plugin  
   ```sh
     inside your <HEAD> tag at  login blade just put the following links to make the template render automatically 
