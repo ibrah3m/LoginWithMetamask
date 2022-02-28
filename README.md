@@ -120,6 +120,10 @@ _Below is an example of how you should  installing and setting up the package in
    ```sh
    php artisan vendor:publish
    ```
+   you will see list of options select the below or 0 for all 
+   ```sh
+   Tag: public
+   ```
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
