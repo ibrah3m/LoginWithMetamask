@@ -138,6 +138,10 @@ _Below is an explanation of how you should  installing and setting up the packag
 
 Here we go almost finsih , now you can use the package in different ways let's see each of them .
 
+1. by route 
+   ```sh
+    just visit the link below 
+   ```
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
