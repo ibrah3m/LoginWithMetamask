@@ -124,9 +124,9 @@ _Below is an example of how you should  installing and setting up the package in
    ```sh
    Tag: public
    ```
-2. Clone the repo
+2. add the package provider 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+  at config/app.php put this line inside providers array 
    ```
 3. Install NPM packages
    ```sh
