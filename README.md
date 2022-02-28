@@ -149,11 +149,9 @@ Here we go almost finsih , now you can use the package in different ways let's s
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
     <script type="text/javascript" src="{{route('metamask.plugin')}}">
   ```
-2. by javascript plugin  
+3. adding just the login button instead of whole template  
   ```sh
-    inside your <HEAD> tag at  login blade just put the following links to make the template render automaticly 
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
-    <script type="text/javascript" src="{{route('metamask.plugin')}}">
+    find the package at vendor folder named ()
   ```
 
 
