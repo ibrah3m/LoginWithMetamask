@@ -136,7 +136,9 @@ _Below is an explanation of how you should  installing and setting up the packag
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Here we go almost finsih , now you can use the package in different ways let's see each of them .
+
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
