@@ -108,7 +108,7 @@ In the few come lines, we will give you instructions about how to set up this re
 First in order to install this package inside your laravel project , so to do that we prefere using composer as explained below .
 * composer
   ```sh
-  composer require ibrahs3m/loginwithmetamsk
+  composer require ibrah3m/loginwithmetamsk
   ```
 ### Installation
 
