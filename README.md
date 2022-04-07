@@ -69,7 +69,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial)
 
-There are many great LOGIN packages available on GitHub; however, I didn't find one that really suited my needs in LARAVEL so I created this enhanced one. I want to create a package for login with metamask so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great LOGIN packages available on GitHub. However, I didn't find one that really suited my needs in LARAVEL, so I created this enhanced one. I want to create a package for login with MetaMask so unique that it'll be the last one you ever need - I think this is it.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
